@@ -41,7 +41,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
 - **Data Science courses by HarvardX**:
   - **Data Science R Basics:** [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/adf6ef624b1503042b88d916226b0d6f192f876a?raw=1)
   - **Data Science Visualization:** [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/a10b0d3784bbe813d65caa09d371cf6555108845?raw=1)
-  - *other courses are in progress*
+  - **Data Science Probability:** In progress
 - **Competetive Programming competitions on** [CodeChef](https://www.codechef.com)
   - **COOK132C:** August 2021 Cook-Off Division 3. Rank [600 off 6124](https://www.codechef.com/rankings/COOK132C?order=asc&page=24&sortBy=rank) people.
   - **COOK133C:** September 2021 Cook-Off Division 3. Rank [168 off 6953](https://www.codechef.com/rankings/COOK133C?order=asc&page=7&sortBy=rank) people.
