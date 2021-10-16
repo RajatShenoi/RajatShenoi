@@ -64,3 +64,4 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | Language | Level | Link |
   | -------- | ----- | ---- |
   | **Python** | Basic | [Certificate](https://www.hackerrank.com/certificates/0017f966b9cf) |
+  | **Java** | Basic | [Certificate](https://www.hackerrank.com/certificates/34a204d54b60) |
