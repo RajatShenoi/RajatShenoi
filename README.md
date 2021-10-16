@@ -32,16 +32,22 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
 ### My achievements
 ---
 - **CS50 courses by HarvardX**:
-  - **CS50x:** CS50's Introduction to Computer Science - [Certificate](https://certificates.cs50.io/e6cfcc64-1a3b-4bc5-b918-b6fded0be13a.png?size=letter)
-  - **CS50 Puzzle Day 2020:** CS50 Puzzle Day 2020 - [Certificate](https://certificates.cs50.io/b72e1ba7-08e1-4740-9292-d0ba7c8097cb.png?size=letter)
-  - **CS50W:** CS50's Web Programming with Python and Javascript - [Certificate](https://certificates.cs50.io/3f303a51-c9ad-4765-a603-604e3c24e468.png?size=letter)
-  - **CS50T:** CS50's Understanding Technology - [Certificate](https://certificates.cs50.io/954d89b2-8ef1-435b-9dbd-80701df8b78e.png?size=letter)
-  - **CS50G:** CS50's Introduction to Game Developement - [Certificate](https://certificates.cs50.io/2dbce5b1-0652-449b-9993-37141c2bca0b.png?size=letter)
-  - **CS50S:** CS50's Introduction to Programming with Scratch - [Certificate](https://certificates.cs50.io/8d1d7b0b-7f3c-459e-a3ae-9b4c2a13c419.png?size=letter)
+
+  | Code | Course name | Link |
+  | ------ | ---- | ---- |
+  | **CS50x** | CS50's Introduction to Computer Science | [Certificate](https://certificates.cs50.io/e6cfcc64-1a3b-4bc5-b918-b6fded0be13a.png?size=letter) |
+  | **CS50 Puzzle Day 2020** | CS50 Puzzle Day 2020 | [Certificate](https://certificates.cs50.io/b72e1ba7-08e1-4740-9292-d0ba7c8097cb.png?size=letter) |
+  | **CS50W** | CS50's Web Programming with Python and Javascript | [Certificate](https://certificates.cs50.io/3f303a51-c9ad-4765-a603-604e3c24e468.png?size=letter) |
+  | **CS50T** | CS50's Understanding Technology | [Certificate](https://certificates.cs50.io/954d89b2-8ef1-435b-9dbd-80701df8b78e.png?size=letter) |
+  | **CS50G** | CS50's Introduction to Game Developement | [Certificate](https://certificates.cs50.io/2dbce5b1-0652-449b-9993-37141c2bca0b.png?size=letter) |
+  | **CS50S** | CS50's Introduction to Programming with Scratch | [Certificate](https://certificates.cs50.io/8d1d7b0b-7f3c-459e-a3ae-9b4c2a13c419.png?size=letter) |
 - **Data Science courses by HarvardX**:
-  - **Data Science: R Basics:** [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/adf6ef624b1503042b88d916226b0d6f192f876a?raw=1)
-  - **Data Science: Visualization:** [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/a10b0d3784bbe813d65caa09d371cf6555108845?raw=1)
-  - **Data Science: Probability:** In progress
+
+  | Code | Course name | Link |
+  | ---- | ----------- | ---- |
+  | **PH125.1x** | Data Science: R Basics | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/adf6ef624b1503042b88d916226b0d6f192f876a?raw=1) |
+  | **PH125.2x** | Data Science: Visualization | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/a10b0d3784bbe813d65caa09d371cf6555108845?raw=1) |
+  | **PH125.3x** | Data Science: Probability | In progress |
 - **Competetive Programming competitions on [CodeChef](https://www.codechef.com)**
   - **COOK132C:** August 2021 Cook-Off Division 3. Rank [600 off 6124](https://www.codechef.com/rankings/COOK132C?order=asc&page=24&sortBy=rank) people.
   - **COOK133C:** September 2021 Cook-Off Division 3. Rank [168 off 6953](https://www.codechef.com/rankings/COOK133C?order=asc&page=7&sortBy=rank) people.
