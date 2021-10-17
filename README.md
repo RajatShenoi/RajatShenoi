@@ -65,3 +65,11 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | -------- | ----- | ---- |
   | **Python** | Basic | [Certificate](https://www.hackerrank.com/certificates/0017f966b9cf) |
   | **Java** | Basic | [Certificate](https://www.hackerrank.com/certificates/34a204d54b60) |
+
+- **PY4E Badges**
+  
+  *All badges can be verified at [https://badgecheck.io/](https://badgecheck.io/) or any other Open Badges 2.0 verifier*
+  | Name | Badge |
+  | ----- | ---- |
+  | Enrolled in Python for Everybody (PY4E) | [Badge](https://www.py4e.com/tsugi/badges/images/4767445152644d766247457a6f354730495a50496b534a79413335546d46616f50784f46337074317865445759413d3d.png) |
+  | Introductory Python - Hello World! | [Badge](https://www.py4e.com/tsugi/badges/images/47774461634e4d76624746506162556f73564459343876347466377a744f4d62522f5643573047306841513d.png) |
