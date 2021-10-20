@@ -74,3 +74,4 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | Enrolled in Python for Everybody (PY4E) | [Badge](https://www.py4e.com/tsugi/badges/images/4767445152644d766247457a6f354730495a50496b534a79413335546d46616f50784f46337074317865445759413d3d.png) |
   | Introductory Python - Hello World! | [Badge](https://www.py4e.com/tsugi/badges/images/47774461634e4d76624746506162556f73564459343876347466377a744f4d62522f5643573047306841513d.png) |
   | Introductory Python - Getting Started | [Badge](https://www.py4e.com/tsugi/badges/images/6c67496f6f646474626d48546b536b63316f567275703150516d4a4461344676334b55656556364875413d3d.png) |
+  | Python Data Structures | [Badge](https://www.py4e.com/tsugi/badges/images/5a674b5836337a5862324754434c5756542f334d6f786669306a3259556e517733697a7338794f3148513d3d.png)
