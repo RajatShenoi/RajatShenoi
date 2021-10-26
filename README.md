@@ -82,7 +82,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
 
 - **Other**
   
-  *The badges below change automatically according to certain conditions. <br> Example: If my website goes down. The badge below will automatically change to "website down". <br><br> Please note that these badges are managed by shields.io
+  *The badges below change automatically according to certain conditions. <br> Example: If my website goes down. The badge below will automatically change to "website down". <br><br> Please note that these badges are managed by shields.io*
   
   | Name | Badges |
   | ---- | ------ |
