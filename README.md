@@ -78,3 +78,16 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | Accessing Web and Network Data With Python | [Badge](https://www.py4e.com/tsugi/badges/images/73674772796f4a6164574779677159784d485a623449613961716d42325168504645594d31565a783962737470513d3d.png) |
   | Using Databases With Python | [Badge](https://www.py4e.com/tsugi/badges/images/6f51496f6a47564d646d485779386b346947517a64474a4c557a796b6b3838794d57796f3033355263464a504e59383d.png) |
   | Python for Everybody | [Badge](https://www.py4e.com/tsugi/badges/images/6f514a516932564d646d48626e75644f31736a3674364a4f4a4f4e6933454c314b46716247513d3d.png) |
+
+
+- **Other**
+  
+  *The badges below change automatically according to certain conditions. <br> Example: if my website goes down. The badge below will automatically change to "website down" or <br> if my stackoverflow reputation increases, the number will automatically increase. So these badges can be trsuted for information.* 
+  
+  | Name | Badges |
+  | ---- | ------ |
+  | Open Source Society University | [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science) |
+  | Last modified (this page) | ![GitHub last commit](https://img.shields.io/github/last-commit/RajatShenoi/RajatShenoi)|
+  | Stackoverflow Reputation | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/14911206)|
+  | [My new website](https://sites.google.com/view/rajatshenoi) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Fsites.google.com%2Fview%2Frajatshenoi)|
+  | [My old website](https://rajatshenoi.github.io/) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Frajatshenoi.github.io%2F) |
