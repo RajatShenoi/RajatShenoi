@@ -78,6 +78,12 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | Accessing Web and Network Data With Python | [Badge](https://www.py4e.com/tsugi/badges/images/73674772796f4a6164574779677159784d485a623449613961716d42325168504645594d31565a783962737470513d3d.png) |
   | Using Databases With Python | [Badge](https://www.py4e.com/tsugi/badges/images/6f51496f6a47564d646d485779386b346947517a64474a4c557a796b6b3838794d57796f3033355263464a504e59383d.png) |
   | Python for Everybody | [Badge](https://www.py4e.com/tsugi/badges/images/6f514a516932564d646d48626e75644f31736a3674364a4f4a4f4e6933454c314b46716247513d3d.png) |
+  
+- **Courses (Other than the above)**
+  | Code | Institution | Course Name | Status |
+  | ---- | ----------- | ----------- | ------ |
+  | 6.0001 | MITx | Introduction to Computer Science and Programming using Python | Completed ✅ |
+  | HtC1x | UBCx | How to Code: Simple Data | In Progress ❌ |
 
 
 - **Other**
