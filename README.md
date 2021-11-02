@@ -83,7 +83,9 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | Code | Institution | Course Name | Status |
   | ---- | ----------- | ----------- | ------ |
   | 6.0001 | MITx | Introduction to Computer Science and Programming using Python | Completed ✅ |
-  | HtC1x | UBCx | How to Code: Simple Data | In Progress ❌ |
+  | HtC1x | UBCx | How to Code: Simple Data | Completed ✅ |
+  | HtC2x | UBCx | How to Code: Complex Data | In Progress ❌ |
+  
 
 
 - **Other**
@@ -93,6 +95,6 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | Name | Badges |
   | ---- | ------ |
   | Open Source Society University | [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science) |
-  | Last modified (this page) | ![GitHub last commit](https://img.shields.io/github/last-commit/RajatShenoi/RajatShenoi?label=last%20modified)|
+  | Last modified (this page) | ![GitHub last commit](https://img.shields.io/github/last-commit/RajatShenoi/RajatShenoi)|
   | [My new website](https://sites.google.com/view/rajatshenoi) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Fsites.google.com%2Fview%2Frajatshenoi)|
   | [My old website](https://rajatshenoi.github.io/) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Frajatshenoi.github.io%2F) |
