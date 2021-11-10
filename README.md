@@ -87,6 +87,13 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | HtC2x | UBCx | How to Code: Complex Data | Completed ✅ |
   | -    | University of Washington | Programming Languages, Part A | In Progress ❌ |
   
+  
+- **I play Chess too**
+  | Platform | Tournament | Date | Number of players | Position | Link |
+  | -------- | ---------- | ---- | :---------------: | :------: | ---- |
+  | lichess.org  | Hyperbullet | Nov 6, 2021, 8:30 PM | 69 | 13 | [Link](https://lichess.org/swiss/Sq1mIXAu) |
+  | chess.com | 3 + 0 Bughouse | Nov 10, 2021, 8:50 AM | 26 | 3 | [Link](https://www.chess.com/tournament/live/30-bughouse-2712849) |
+  
 
 
 - **Other**
