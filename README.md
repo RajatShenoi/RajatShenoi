@@ -87,7 +87,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | 6.0001 | MITx | Introduction to Computer Science and Programming using Python | Completed ✅ |
   | HtC1x | UBCx | How to Code: Simple Data | Completed ✅ |
   | HtC2x | UBCx | How to Code: Complex Data | Completed ✅ |
-  | -    | University of Washington | Programming Languages, Part A | In Progress ❌ |
+  | NA    | UW | Programming Languages, Part A | In Progress ❌ |
   
   
 - **I play Chess too**
