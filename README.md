@@ -58,7 +58,8 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | ---- | ---------------- | -------------- |
   | **COOK132C** | August 2021 Cook-Off Division 3 | Rank [600 off 6124](https://www.codechef.com/rankings/COOK132C?order=asc&page=24&sortBy=rank) people. |
   | **COOK133C** | September 2021 Cook-Off Division 3 | Rank [168 off 6953](https://www.codechef.com/rankings/COOK133C?order=asc&page=7&sortBy=rank) people. |
-  | **SNCK1A21** | Snackdown 2021 Round 1A | [Certificate](https://www.codechef.com/certificates/public/0388842) |
+  | **SNCKQL21** | Snackdown 2021 Online Qualifier | Rank [9822 off 37884+](https://www.codechef.com/rankings/SNCKQL21?order=asc&search=rajatshenoi&sortBy=rank) people. |
+  | **SNCK1A21** | Snackdown 2021 Round 1A | Rank [5827 off 20762+](https://www.codechef.com/rankings/SNCK1A21?itemsPerPage=100&order=asc&search=rajatshenoi&sortBy=rank), [Certificate](https://www.codechef.com/certificates/public/0388842) people|
   
 - **Certifications by [HackerRank](https://www.hackerrank.com)**
 
