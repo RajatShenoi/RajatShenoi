@@ -58,6 +58,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | ---- | ---------------- | -------------- |
   | **COOK132C** | August 2021 Cook-Off Division 3 | Rank [600 off 6124](https://www.codechef.com/rankings/COOK132C?order=asc&page=24&sortBy=rank) people. |
   | **COOK133C** | September 2021 Cook-Off Division 3 | Rank [168 off 6953](https://www.codechef.com/rankings/COOK133C?order=asc&page=7&sortBy=rank) people. |
+  | **SNCK1A21** | Snackdown 2021 Round 1A | [Certificate](https://www.codechef.com/certificates/public/0388842) |
   
 - **Certifications by [HackerRank](https://www.hackerrank.com)**
 
@@ -94,7 +95,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | lichess.org  | Hyperbullet | Swiss | Nov 6, 2021, 8:30 PM | 69 | 13 | [Link](https://lichess.org/swiss/Sq1mIXAu) |
   | chess.com | 3 + 0 Bughouse | Swiss | Nov 10, 2021, 8:50 AM | 26 | 3 | [Link](https://www.chess.com/tournament/live/30-bughouse-2712849) |
   | lichess.org | <1700 Bullet | Arena | Nov 10, 2021, 11:30 AM | 121 | 16 | [Link](https://lichess.org/tournament/ikIrEmpR) |
-  | chess.com | Bullet 3 Check | Arena | Nov 11, 2021, 12:15 AM | 45 | 5 | [Link](https://www.chess.com/play/arena/1485981) |
+  | chess.com | Bullet 3 Check | Arena | Nov 11, 2021, 12:15 PM | 45 | 5 | [Link](https://www.chess.com/play/arena/1485981) |
   
 
 
