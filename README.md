@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajatShenoi
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning [Data Science courses by HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science)
-- 💞️ I’m looking to collaborate on an extension I plan on making to Google Chrome which stores whatever is **copied** in one place so that the user can simply copy all the required data and go back to the extension to see all the data he has copied. This project will make the user speed up in whatever he does when the user is using the internet to copy and paste a lot of data back and forth to different places.
+- 🌱 I’m currently learning **Programming Languages, Part A**
+- 💞️ I’m looking to collaborate on a program which can solve a wordle.
 - 📫 How to reach me [developer.rajat.shenoi@gmail.com](mailto:developer.rajat.shenoi@gmail.com)
 - 👀 Here is [my new website](https://sites.google.com/view/rajatshenoi) and here is [the old one](https://rajatshenoi.github.io)
 
