@@ -17,6 +17,7 @@ You can click the Preview link to take a look at your changes.
 All of my games are available for download from my website: [https://sites.google.com/view/rajatshenoi/games](https://sites.google.com/view/rajatshenoi/games)
 or
 If you prefer the older version: [https://rajatshenoi.github.io](https://rajatshenoi.github.io)
+- Space Shooter
 - Color Mind
 - Pong
 - Fifty Bird
