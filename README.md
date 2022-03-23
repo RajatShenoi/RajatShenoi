@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 All of my games are available for download from my website: [https://sites.google.com/view/rajatshenoi/games](https://sites.google.com/view/rajatshenoi/games)
 or
 If you prefer the older version: [https://rajatshenoi.github.io](https://rajatshenoi.github.io)
-- Space Shooter
+<!-- - Space Shooter
 - Color Mind
 - Pong
 - Fifty Bird
@@ -28,13 +28,18 @@ If you prefer the older version: [https://rajatshenoi.github.io](https://rajatsh
 - Helicopter 3D
 - Clicky Crates
 - Whack-a-food!
-- Dread50
+- Dread50 -->
+  | Game | Game | Game | Game |
+  | ---- | ---- | ---- | ---- |
+  | Space Shooter | Color Mind | Pong | Fifty Bird |
+  | Breakout | Match-3 | Super 50 Bros | Legend of 50 |
+  | Helicopter 3D | Clicky Crates | Whack-a-food | Dread50 |
 
 Note: *I am open to feedback to all the games. Also if you find any bugs in the game please report it to my email. I shall mention your name in future updates for your contribution towards the game.*
 
 ### My achievements
 ---
-- **CS50 courses by HarvardX**:
+- #### **CS50 courses by HarvardX**:
 
   | Code | Course name | Link |
   | ------ | ---- | ---- |
@@ -45,15 +50,15 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | **CS50G** | CS50's Introduction to Game Developement | [Certificate](https://certificates.cs50.io/2dbce5b1-0652-449b-9993-37141c2bca0b.png?size=letter) |
   | **CS50S** | CS50's Introduction to Programming with Scratch | [Certificate](https://certificates.cs50.io/8d1d7b0b-7f3c-459e-a3ae-9b4c2a13c419.png?size=letter) |
   
-- **Data Science courses by HarvardX**:
+- #### **Data Science courses by HarvardX**:
 
   | Code | Course name | Link |
   | ---- | ----------- | ---- |
   | **PH125.1x** | Data Science: R Basics | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/adf6ef624b1503042b88d916226b0d6f192f876a?raw=1) |
   | **PH125.2x** | Data Science: Visualization | [Certificate](https://www.datacamp.com/statement-of-accomplishment/course/a10b0d3784bbe813d65caa09d371cf6555108845?raw=1) |
-  | **PH125.3x** | Data Science: Probability | In progress |
+  | **PH125.3x** | Data Science: Probability | Stopped |
   
-- **Competetive Programming competitions on [CodeChef](https://www.codechef.com)**
+- #### **Competetive Programming competitions on [CodeChef](https://www.codechef.com)**
 
   | Code | Competition name | Rank with link |
   | ---- | ---------------- | -------------- |
@@ -62,14 +67,14 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | **SNCKQL21** | Snackdown 2021 Online Qualifier | Rank [9822 off 37884+](https://www.codechef.com/rankings/SNCKQL21?order=asc&search=rajatshenoi&sortBy=rank) people. |
   | **SNCK1A21** | Snackdown 2021 Round 1A | Rank [5827 off 20762+](https://www.codechef.com/rankings/SNCK1A21?itemsPerPage=100&order=asc&search=rajatshenoi&sortBy=rank) people, [Certificate](https://www.codechef.com/certificates/public/0388842) |
   
-- **Certifications by [HackerRank](https://www.hackerrank.com)**
+- #### **Certifications by [HackerRank](https://www.hackerrank.com)**
 
   | Language | Level | Link |
   | -------- | ----- | ---- |
   | **Python** | Basic | [Certificate](https://www.hackerrank.com/certificates/0017f966b9cf) |
   | **Java** | Basic | [Certificate](https://www.hackerrank.com/certificates/34a204d54b60) |
 
-- **PY4E Badges**
+- #### **PY4E Badges**
   
   *All badges can be verified at [https://badgecheck.io/](https://badgecheck.io/) or any other Open Badges 2.0 verifier*
   | Name | Badge |
@@ -82,7 +87,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | Using Databases With Python | [Badge](https://www.py4e.com/tsugi/badges/images/6f51496f6a47564d646d485779386b346947517a64474a4c557a796b6b3838794d57796f3033355263464a504e59383d.png) |
   | Python for Everybody | [Badge](https://www.py4e.com/tsugi/badges/images/6f514a516932564d646d48626e75644f31736a3674364a4f4a4f4e6933454c314b46716247513d3d.png) |
   
-- **Courses (Other than the above)**
+- #### **Courses (Other than the above)**
   | Code | Institution | Course Name | Status |
   | ---- | ----------- | ----------- | ------ |
   | 6.0001 | MITx | Introduction to Computer Science and Programming using Python | Completed ✅ |
@@ -91,7 +96,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | NA    | UW | Programming Languages, Part A | In Progress ❌ |
   
   
-- **I play Chess too**
+- #### **I play Chess too**
   | Platform | Tournament | Type | Date | Number of players | Position | Link |
   | -------- | ---------- | ---- | ---- | :---------------: | :------: | ---- |
   | lichess.org  | Hyperbullet | Swiss | Nov 6, 2021, 8:30 PM | 69 | 13 | [Link](https://lichess.org/swiss/Sq1mIXAu) |
@@ -102,7 +107,15 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | chess.com | Bullet | Arena | Nov 30, 2021, 6:20 PM | 750 | 10 | [Link](https://www.chess.com/tournament/live/arena/10-bullet-1531707) |
 
 
-- **Other**
+- #### **Other**
+  
+  *Here is the table which includes all the full forms of the short forms in this page*
+  
+  | Short Form | Full Form |
+  | ---------- | --------- |
+  | MITx       | Massachusetts Institute of Technology via edX |
+  | UBCx       | University of British Columbia via edX |
+  | UW         | University of Washington |
   
   *The badges below change automatically according to certain conditions. <br> Example: If my website goes down. The badge below will automatically change to "website down". <br><br> Please note that these badges are managed by shields.io*
   
