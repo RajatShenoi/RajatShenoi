@@ -12,6 +12,19 @@ You can click the Preview link to take a look at your changes.
 
 *Disclaimer:* This README.md is designed to be viewed from any "desktop". However this page is mobile responsive too, but for the best experience, please use a desktop computer to view this page.
 
+### Index
+- [Games I have made!](#games-i-have-made)
+- [My achievements](#my-achievements)
+  - [CS50 courses by HarvardX](#cs50-courses-by-harvardx)
+  - [Data Science courses by HarvardX](#data-science-courses-by-harvardx)
+  - [Competetive Programming competitions on CodeChef](#competetive-programming-competitions-on-codechef)
+  - [Certifications by HackerRank](#certifications-by-hackerrank)
+  - [PY4E Badges](#py4e-badges)
+  - [Courses (Other than the above)](#courses-other-than-the-above)
+  - [Chess acheivements](#i-play-chess-too)
+  - [Other](#other)
+- [Footer](#footer)
+
 ### Games I have made!
 ---
 All of my games are available for download from my website: [https://sites.google.com/view/rajatshenoi/games](https://sites.google.com/view/rajatshenoi/games)
@@ -116,7 +129,10 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | MITx       | Massachusetts Institute of Technology via edX |
   | UBCx       | University of British Columbia via edX |
   | UW         | University of Washington |
+
   
+### Footer
+---
   *The badges below change automatically according to certain conditions. <br> Example: If my website goes down. The badge below will automatically change to "website down". <br><br> Please note that these badges are managed by shields.io*
   
   | Name | Badges |
