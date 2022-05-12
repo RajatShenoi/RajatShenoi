@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajatShenoi
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning **Programming Languages, Part A**
-- 💞️ I’m looking to collaborate on a program which can solve a wordle.
+- 🌱 I’m currently learning **BSc Data Science and Programming at IIT Madras**
+- 💞️ I’m looking to collaborate on --------.
 - 📫 How to reach me [developer.rajat.shenoi@gmail.com](mailto:developer.rajat.shenoi@gmail.com)
 - 👀 Here is [my new website](https://sites.google.com/view/rajatshenoi) and here is [the old one](https://rajatshenoi.github.io)
 
@@ -62,6 +62,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | **CS50T** | CS50's Understanding Technology | [Certificate](https://certificates.cs50.io/954d89b2-8ef1-435b-9dbd-80701df8b78e.png?size=letter) |
   | **CS50G** | CS50's Introduction to Game Developement | [Certificate](https://certificates.cs50.io/2dbce5b1-0652-449b-9993-37141c2bca0b.png?size=letter) |
   | **CS50S** | CS50's Introduction to Programming with Scratch | [Certificate](https://certificates.cs50.io/8d1d7b0b-7f3c-459e-a3ae-9b4c2a13c419.png?size=letter) |
+  | **CS50 Puzzle Day 2022** | CS50 Puzzle Day 2022 | [Certificate](https://certificates.cs50.io/3544fb9f-ec49-461d-924d-e0aaaf7a43cd.png?size=letter) |
   
 - #### **Data Science courses by HarvardX**:
 
