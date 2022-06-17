@@ -108,6 +108,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | HtC1x | UBCx | How to Code: Simple Data | Completed ✅ |
   | HtC2x | UBCx | How to Code: Complex Data | Completed ✅ |
   | NA    | UW | Programming Languages, Part A | In Progress ❌ |
+  | Bsc | IITM | BSc in Programming and Data Science | Qualified ✅ |
   
   
 - #### **I play Chess too**
@@ -130,6 +131,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | MITx       | Massachusetts Institute of Technology via edX |
   | UBCx       | University of British Columbia via edX |
   | UW         | University of Washington |
+  | IITM       | IIT Madras |
 
   
 ### Footer
