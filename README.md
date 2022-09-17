@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajatShenoi
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning **BSc Data Science and Programming at IIT Madras**
+- 🌱 I’m currently learning **Competitive Programming**
 - 💞️ I’m looking to collaborate on --------.
 - 📫 How to reach me [developer.rajat.shenoi@gmail.com](mailto:developer.rajat.shenoi@gmail.com)
 - 👀 Here is [my new website](https://sites.google.com/view/rajatshenoi) and here is [the old one](https://rajatshenoi.github.io)
@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 ### Index
 - [Games I have made!](#games-i-have-made)
 - [My achievements](#my-achievements)
+  - [Certifications by Coursera](#certifications-by-coursera)
   - [CS50 courses by HarvardX](#cs50-courses-by-harvardx)
   - [Data Science courses by HarvardX](#data-science-courses-by-harvardx)
   - [Competetive Programming competitions on CodeChef](#competetive-programming-competitions-on-codechef)
@@ -52,6 +53,16 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
 
 ### My achievements
 ---
+- #### **Certifications by Coursera**
+  | Course name | Link |
+  | ----------- | ---- |
+  | Smart Analytics, Machine Learning, and AI on GCP | [Certificate](https://www.coursera.org/account/accomplishments/records/4VCT62RUG86E) |
+  | Building Resilient Streaming Analytics Systems on Google Cloud | [Certificate](https://www.coursera.org/account/accomplishments/records/4Q5QXYUZ477J) |
+  | Modernizing Data Lakes and Data Warehouses with Google Cloud | [Certificate](https://www.coursera.org/account/accomplishments/records/XRE7F5QPQY96) |
+  | Google Cloud Big Data and Machine Learning Fundamentals | [Certificate](https://www.coursera.org/account/accomplishments/records/33A6QPV4LTFK) |
+  | Building Batch Data Pipelines on Google Cloud | [Certificate](https://www.coursera.org/account/accomplishments/records/JAJNU94VQUUD) |
+  | Classify Images of Clouds in the Cloud with AutoML Vision | [Certificate](https://www.coursera.org/account/accomplishments/verify/XTBBXBNT25LC) |
+  | Data Engineering, Big Data, and Machine Learning on GCP Specialization | [Certificate](https://www.coursera.org/account/accomplishments/specialization/NBJAJRES7HAE) |
 - #### **CS50 courses by HarvardX**:
 
   | Code | Course name | Link |
@@ -108,7 +119,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | 6.0001 | MITx | Introduction to Computer Science and Programming using Python | Completed ✅ |
   | HtC1x | UBCx | How to Code: Simple Data | Completed ✅ |
   | HtC2x | UBCx | How to Code: Complex Data | Completed ✅ |
-  | NA    | UW | Programming Languages, Part A | In Progress ❌ |
+  | NA    | UW | Programming Languages, Part A | On Hold |
   | BSc | IITM | BSc in Programming and Data Science | Qualified ✅ |
   
   
