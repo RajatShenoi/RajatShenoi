@@ -132,6 +132,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | chess.com | Bullet 3 Check | Arena | Nov 11, 2021, 12:15 PM | 45 | 5 | [Link](https://www.chess.com/play/arena/1485981) |
   | lichess.org | Bullet | Swiss | Nov 13, 2021, 6:30 PM | 59 | 9 | [Link](https://lichess.org/swiss/9134nTA3) |
   | chess.com | Bullet | Arena | Nov 30, 2021, 6:20 PM | 750 | 10 | [Link](https://www.chess.com/tournament/live/arena/10-bullet-1531707) |
+  | lichess.org | Bullet | Swiss | Sep 17, 2022, 12:30 PM | 59 | 13 | [Link](https://lichess.org/swiss/g3oYZZfQ) |
 
 
 - #### **Other**
