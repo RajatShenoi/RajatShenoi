@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 *Disclaimer:* This README.md is designed to be viewed from any "desktop". However this page is mobile responsive too, but for the best experience, please use a desktop computer to view this page.
 
+Looking for my [CP Repo](https://github.com/RajatShenoi/CP)?
+
 ### Index
 - [Games I have made!](#games-i-have-made)
 - [My achievements](#my-achievements)
