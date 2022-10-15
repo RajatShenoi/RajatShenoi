@@ -25,6 +25,7 @@ Looking for my [CP Repo](https://github.com/RajatShenoi/CP)?
   - [PY4E Badges](#py4e-badges)
   - [Courses (Other than the above)](#courses-other-than-the-above)
   - [Chess acheivements](#i-play-chess-too)
+  - [Holopin Badges](#holopin-badges)
   - [Other](#other)
 - [Footer](#footer)
 
@@ -148,6 +149,10 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | UBCx       | University of British Columbia via edX |
   | UW         | University of Washington |
   | IITM       | IIT Madras |
+  
+- #### **Holopin Badges**
+
+  [![@rajatshenoi's Holopin board](https://holopin.me/rajatshenoi)](https://holopin.io/@rajatshenoi)
 
   
 ### Footer
