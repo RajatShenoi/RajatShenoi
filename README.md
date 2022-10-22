@@ -31,7 +31,7 @@ Looking for my [CP Repo](https://github.com/RajatShenoi/CP)?
 
 ### Games I have made!
 ---
-All of my games are available for download from my website: [https://sites.google.com/view/rajatshenoi/games](https://sites.google.com/view/rajatshenoi/games)
+All of my games are available for download from my website: [https://sites.google.com/view/rajatshenoi/rs-games](https://sites.google.com/view/rajatshenoi/rs-games)
 or
 If you prefer the older version: [https://rajatshenoi.github.io](https://rajatshenoi.github.io)
 <!-- - Space Shooter
