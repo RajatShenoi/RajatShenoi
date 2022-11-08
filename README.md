@@ -21,6 +21,7 @@ Looking for my [CP Repo](https://github.com/RajatShenoi/CP)?
   - [CS50 courses by HarvardX](#cs50-courses-by-harvardx)
   - [Data Science courses by HarvardX](#data-science-courses-by-harvardx)
   - [Competetive Programming competitions on CodeChef](#competetive-programming-competitions-on-codechef)
+  - [Certifications by CodingNinjas](#certifications-by-codingninjas)
   - [Certifications by HackerRank](#certifications-by-hackerrank)
   - [PY4E Badges](#py4e-badges)
   - [Courses (Other than the above)](#courses-other-than-the-above)
@@ -95,6 +96,13 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | **SNCKQL21** | Snackdown 2021 Online Qualifier | Rank [9822 off 37884+](https://www.codechef.com/rankings/SNCKQL21?order=asc&search=rajatshenoi&sortBy=rank) people. |
   | **SNCK1A21** | Snackdown 2021 Round 1A | Rank [5827 off 20762+](https://www.codechef.com/rankings/SNCK1A21?itemsPerPage=100&order=asc&search=rajatshenoi&sortBy=rank) people, [Certificate](https://www.codechef.com/certificates/public/0388842) |
   | **JUNE222C** | June Long Two 2022 Division 3 | Rank [158 off 2802+](https://www.codechef.com/rankings/JUNE222C) people. |
+  
+- #### **Certifications by [CodingNinjas](https://www.codingninjas.com/)
+  
+  | Course | Link |
+  | ------ | ---- |
+  | **Basics of C++** | [Certificate](https://files.codingninjas.in/certi_image2275160ad2ce1fc4d55ba383a1154ec291635a.jpg) |
+  | **Data Structures and Algorithms** | In Progress |
   
 - #### **Certifications by [HackerRank](https://www.hackerrank.com)**
 
