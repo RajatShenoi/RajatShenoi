@@ -97,7 +97,7 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | **SNCK1A21** | Snackdown 2021 Round 1A | Rank [5827 off 20762+](https://www.codechef.com/rankings/SNCK1A21?itemsPerPage=100&order=asc&search=rajatshenoi&sortBy=rank) people, [Certificate](https://www.codechef.com/certificates/public/0388842) |
   | **JUNE222C** | June Long Two 2022 Division 3 | Rank [158 off 2802+](https://www.codechef.com/rankings/JUNE222C) people. |
   
-- #### **Certifications by [CodingNinjas](https://www.codingninjas.com/)
+- #### **Certifications by [CodingNinjas](https://www.codingninjas.com/)**
   
   | Course | Link |
   | ------ | ---- |
