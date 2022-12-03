@@ -171,5 +171,6 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | ---- | ------ |
   | Open Source Society University | [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science) |
   | Last modified (this page) | ![GitHub last commit](https://img.shields.io/github/last-commit/RajatShenoi/RajatShenoi)|
-  | [My new website](https://sites.google.com/view/rajatshenoi) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Fsites.google.com%2Fview%2Frajatshenoi)|
-  | [My old website](https://rajatshenoi.github.io/) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Frajatshenoi.github.io%2F) |
+  | [sites.google.com/view/rajatshenoi](https://sites.google.com/view/rajatshenoi) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Fsites.google.com%2Fview%2Frajatshenoi)|
+  | [rajatshenoi.github.io](https://rajatshenoi.github.io/) | ![Website](https://img.shields.io/website?down_message=Will%20be%20active%20soon%20%3A%28&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Frajatshenoi.github.io%2F) |
+  | [rs-mynotes.web.app/](https://rs-mynotes.web.app/#/) | ![Website](https://img.shields.io/website?down_message=Website%20down.%20Contact%20me.&up_message=It%27s%20working%20fine%21&url=https%3A%2F%2Frs-mynotes.web.app%2F%23%2F) |
