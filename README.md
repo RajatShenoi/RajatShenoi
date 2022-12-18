@@ -118,7 +118,7 @@ All of my games are available for download from my website: [https://sites.googl
   | **Python** | Basic | [Certificate](https://www.hackerrank.com/certificates/0017f966b9cf) |
   | **Java** | Basic | [Certificate](https://www.hackerrank.com/certificates/34a204d54b60) |
   
-- ### **Unity Badges***
+- ### **Unity Badges**
   | Name | Badge |
   | ---- | ----- |
   | Getting Started with Unity | [Badge](https://connect-prd-cdn.unity.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png.2000x0x1.webp) |
