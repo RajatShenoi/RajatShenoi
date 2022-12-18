@@ -23,6 +23,7 @@ Looking for my [CP Repo](https://github.com/RajatShenoi/CP)?
   - [Competetive Programming competitions on CodeChef](#competetive-programming-competitions-on-codechef)
   - [Certifications by CodingNinjas](#certifications-by-codingninjas)
   - [Certifications by HackerRank](#certifications-by-hackerrank)
+  - [Unity Badges](#unity-badges)
   - [PY4E Badges](#py4e-badges)
   - [Courses (Other than the above)](#courses-other-than-the-above)
   - [Chess acheivements](#i-play-chess-too)
@@ -54,6 +55,12 @@ If you prefer the older version: [https://rajatshenoi.github.io](https://rajatsh
   | Helicopter 3D | Clicky Crates | Whack-a-food | Dread50 |
 
 Note: *I am open to feedback to all the games. Also if you find any bugs in the game please report it to my email. I shall mention your name in future updates for your contribution towards the game.*
+
+### Apps I have made!
+---
+All of my games are available for download from my website: [https://sites.google.com/view/rajatshenoi/rs-apps](https://sites.google.com/view/rajatshenoi/rs-games)
+- MyNotes
+
 
 ### My achievements
 ---
@@ -110,6 +117,16 @@ Note: *I am open to feedback to all the games. Also if you find any bugs in the 
   | -------- | ----- | ---- |
   | **Python** | Basic | [Certificate](https://www.hackerrank.com/certificates/0017f966b9cf) |
   | **Java** | Basic | [Certificate](https://www.hackerrank.com/certificates/34a204d54b60) |
+  
+- ### **Unity Badges***
+  | Name | Badge |
+  | ---- | ----- |
+  | Getting Started with Unity | [Badge](https://connect-prd-cdn.unity.com/20201028/learn/images/c01fcc3c-687d-4752-96dc-35e739715c3d_02_Real_Time_Creation_Essentials_Mission.png.2000x0x1.webp) |
+  | Explore Unity | [Badge](https://connect-prd-cdn.unity.com/20201113/learn/images/bac9b7bd-4670-4b31-b635-789fb80435cf_01_Real_Time_Essentials_Mission.png.2000x0x1.webp) |
+  | Unity Essentials Pathway | [Badge](https://images.youracclaim.com/images/ebea4a14-2685-4e01-ac66-9bc88e0b26c0/00-Unity_Essentials-Pathway_Badge.png) |
+  | Learn Unity | [Badge](https://connect-prd-cdn.unity.com/20201006/learn/images/c0738a29-fb1a-4bc1-8cb1-95d47762a2cc_03_Unity_Engine_Essentialls_Mission.png.2000x0x1.webp) |
+  | Junior Programmer: Create with Code 1 | [Badge](https://connect-prd-cdn.unity.com/20200928/learn/images/67e42083-92a8-4ff3-af64-2865b8c78081_01_Programming_Basics_Mission.png.2000x0x1.webp) |
+  | Junior Programmer: Create with Code 2 | [Badge](https://connect-prd-cdn.unity.com/20201001/learn/images/1c5d92e6-cdfb-47db-a501-e95517778724_02_Programming_Essentials_Mission.png.2000x0x1.webp) |
 
 - #### **PY4E Badges**
   
