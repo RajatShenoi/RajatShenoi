@@ -64,6 +64,10 @@ All of my games are available for download from my website: [https://sites.googl
 
 ### My achievements
 ---
+- #### **Certifications by kaggle**
+  | Course name | Link |
+  | ----------- | ---- |
+  | Intro to Programming | [Certificate](https://www.kaggle.com/learn/certification/rajatshenoi/intro-to-programming) |
 - #### **Certifications by Coursera**
   | Course name | Link |
   | ----------- | ---- |
