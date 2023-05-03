@@ -17,6 +17,7 @@ Looking for my [CP Repo](https://github.com/RajatShenoi/CP)?
 ### Index
 - [Games I have made!](#games-i-have-made)
 - [My achievements](#my-achievements)
+  - [Certifications by kaggle](#certifications-by-kaggle)
   - [Certifications by Coursera](#certifications-by-coursera)
   - [CS50 courses by HarvardX](#cs50-courses-by-harvardx)
   - [Data Science courses by HarvardX](#data-science-courses-by-harvardx)
