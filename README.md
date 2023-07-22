@@ -185,6 +185,10 @@ All of my games are available for download from my website: [https://sites.googl
 
   [![@rajatshenoi's Holopin board](https://holopin.me/rajatshenoi)](https://holopin.io/@rajatshenoi)
 
+- #### **Quine Stats**
+
+  [![RajatShenoi's Stack Overflow | Stats](https://stats.quine.sh/RajatShenoi/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RajatShenoi)[![RajatShenoi's GitHub | Stats](https://stats.quine.sh/RajatShenoi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=RajatShenoi)
+
   
 ### Footer
 ---
