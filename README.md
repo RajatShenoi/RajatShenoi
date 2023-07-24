@@ -67,6 +67,7 @@ All of my games are available for download from my website: [https://sites.googl
 ### My achievements
 ---
 - #### **Certifications by Microsoft**
+  _A complete transcript of the courses taken on **Microsoft Learn** can be viewed [here](https://learn.microsoft.com/en-gb/users/rajatshenoi/transcript/vpj66t8kg4llm9y)._
   | Course name | Type | Link |
   | ----------- | ---- | ---- |
   | Get Started with AI on Azure | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.get-started-ai-fundamentals.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
