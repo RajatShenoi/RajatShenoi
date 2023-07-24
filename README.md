@@ -17,6 +17,7 @@ Looking for my [CP Repo](https://github.com/RajatShenoi/CP)?
 ### Index
 - [Games I have made!](#games-i-have-made)
 - [My achievements](#my-achievements)
+  - [Certifications by Microsoft](#certifications-by-microsoft)
   - [Certifications by kaggle](#certifications-by-kaggle)
   - [Certifications by Coursera](#certifications-by-coursera)
   - [CS50 courses by HarvardX](#cs50-courses-by-harvardx)
@@ -65,6 +66,11 @@ All of my games are available for download from my website: [https://sites.googl
 
 ### My achievements
 ---
+- #### **Certifications by Microsoft**
+  | Course name | Type | Link |
+  | ----------- | ---- | ---- |
+  | Get Started with AI on Azure | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.get-started-ai-fundamentals.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254)
+  | Introduction to GitHub Copilot | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.introduction-to-github-copilot.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254)
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
