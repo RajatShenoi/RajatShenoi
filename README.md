@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajatShenoi
 - 👀 I’m interested in programming!
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science at IIT Madras**
 - 💞️ I’m looking to collaborate on an "initially closed" source app that I'm developing, email if interested.
 - 📫 How to reach me [developer.rajat.shenoi@gmail.com](mailto:developer.rajat.shenoi@gmail.com)
 - 👀 Here is [my new website](https://sites.google.com/view/rajatshenoi) and here is [the old one](https://rajatshenoi.github.io)
@@ -73,6 +73,7 @@ All of my games are available for download from my website: [https://sites.googl
   | Get Started with AI on Azure | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.get-started-ai-fundamentals.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Introduction to GitHub Copilot | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.introduction-to-github-copilot.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Introduction to Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.machinelearning.introduction-to-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Use automated machine learning in Azure Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
