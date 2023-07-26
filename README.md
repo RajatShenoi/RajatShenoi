@@ -75,6 +75,7 @@ All of my games are available for download from my website: [https://sites.googl
   | Introduction to Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.machinelearning.introduction-to-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Use automated machine learning in Azure Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Create a regression model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Create a classification model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
@@ -164,7 +165,7 @@ All of my games are available for download from my website: [https://sites.googl
   | HtC1x | UBCx | How to Code: Simple Data | Completed ✅ |
   | HtC2x | UBCx | How to Code: Complex Data | Completed ✅ |
   | NA    | UW | Programming Languages, Part A | On Hold |
-  | BSc | IITM | BSc in Programming and Data Science | Qualified ✅ |
+  | BS | IITM | BS in Data Science and Applications | Currently in Foundational Level ✅ |
   
   
 - #### **I play Chess too**
