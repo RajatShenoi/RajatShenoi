@@ -74,6 +74,7 @@ All of my games are available for download from my website: [https://sites.googl
   | Introduction to GitHub Copilot | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.introduction-to-github-copilot.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Introduction to Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.machinelearning.introduction-to-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Use automated machine learning in Azure Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Create a regression model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
