@@ -76,6 +76,8 @@ All of my games are available for download from my website: [https://sites.googl
   | Use automated machine learning in Azure Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Create a regression model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Create a classification model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Create a clustering model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | Trophy | [Trophy](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
