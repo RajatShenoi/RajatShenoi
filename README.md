@@ -69,7 +69,7 @@ All of my games are available for download from my website: [https://sites.googl
 - #### **Certifications by Microsoft**
   _A complete transcript of the courses taken on **Microsoft Learn** can be viewed [here](https://learn.microsoft.com/en-gb/users/rajatshenoi/transcript/vpj66t8kg4llm9y)._
   | Course name | Type | Link |
-  | ----------- | ---- | ---- |
+  | ----------- | :--: | ---- |
   | Get Started with AI on Azure | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.get-started-ai-fundamentals.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Introduction to GitHub Copilot | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.introduction-to-github-copilot.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Introduction to Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.machinelearning.introduction-to-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
@@ -77,21 +77,22 @@ All of my games are available for download from my website: [https://sites.googl
   | Create a regression model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Create a classification model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Create a clustering model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | Trophy | [Trophy](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | Learning Path | [Trophy](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Explore and analyse data with Python | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.explore-analyze-data-with-python.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
   | Intro to Programming | [Certificate](https://www.kaggle.com/learn/certification/rajatshenoi/intro-to-programming) |
 - #### **Certifications by Coursera**
-  | Course name | Link |
-  | ----------- | ---- |
-  | Smart Analytics, Machine Learning, and AI on GCP | [Certificate](https://www.coursera.org/account/accomplishments/records/4VCT62RUG86E) |
-  | Building Resilient Streaming Analytics Systems on Google Cloud | [Certificate](https://www.coursera.org/account/accomplishments/records/4Q5QXYUZ477J) |
-  | Modernizing Data Lakes and Data Warehouses with Google Cloud | [Certificate](https://www.coursera.org/account/accomplishments/records/XRE7F5QPQY96) |
-  | Google Cloud Big Data and Machine Learning Fundamentals | [Certificate](https://www.coursera.org/account/accomplishments/records/33A6QPV4LTFK) |
-  | Building Batch Data Pipelines on Google Cloud | [Certificate](https://www.coursera.org/account/accomplishments/records/JAJNU94VQUUD) |
-  | Classify Images of Clouds in the Cloud with AutoML Vision | [Certificate](https://www.coursera.org/account/accomplishments/verify/XTBBXBNT25LC) |
-  | Data Engineering, Big Data, and Machine Learning on GCP Specialization | [Certificate](https://www.coursera.org/account/accomplishments/specialization/NBJAJRES7HAE) |
+  | Course name | Type | Link |
+  | ----------- | :--: | ---- |
+  | Smart Analytics, Machine Learning, and AI on GCP | Course | [Certificate](https://www.coursera.org/account/accomplishments/records/4VCT62RUG86E) |
+  | Building Resilient Streaming Analytics Systems on Google Cloud | Course | [Certificate](https://www.coursera.org/account/accomplishments/records/4Q5QXYUZ477J) |
+  | Modernizing Data Lakes and Data Warehouses with Google Cloud | Course | [Certificate](https://www.coursera.org/account/accomplishments/records/XRE7F5QPQY96) |
+  | Google Cloud Big Data and Machine Learning Fundamentals | Course | [Certificate](https://www.coursera.org/account/accomplishments/records/33A6QPV4LTFK) |
+  | Building Batch Data Pipelines on Google Cloud | Course | [Certificate](https://www.coursera.org/account/accomplishments/records/JAJNU94VQUUD) |
+  | Classify Images of Clouds in the Cloud with AutoML Vision | Course | [Certificate](https://www.coursera.org/account/accomplishments/verify/XTBBXBNT25LC) |
+  | Data Engineering, Big Data, and Machine Learning on GCP | Specialization | [Certificate](https://www.coursera.org/account/accomplishments/specialization/NBJAJRES7HAE) |
 - #### **CS50 courses by HarvardX**:
 
   | Code | Course name | Link |
