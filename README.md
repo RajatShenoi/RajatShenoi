@@ -80,6 +80,7 @@ All of my games are available for download from my website: [https://sites.googl
   | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | Learning Path | [Trophy](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Explore and analyse data with Python | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.explore-analyze-data-with-python.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Train and evaluate regression models | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Train and evaluate classification models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-classification-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
