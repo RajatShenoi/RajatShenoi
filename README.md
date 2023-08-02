@@ -81,6 +81,7 @@ All of my games are available for download from my website: [https://sites.googl
   | Explore and analyse data with Python | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.explore-analyze-data-with-python.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Train and evaluate regression models | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Train and evaluate classification models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-classification-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Train and evaluate clustering models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-cluster-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
@@ -195,7 +196,7 @@ All of my games are available for download from my website: [https://sites.googl
   | MITx       | Massachusetts Institute of Technology via edX |
   | UBCx       | University of British Columbia via edX |
   | UW         | University of Washington |
-  | IITM       | IIT Madras |
+  | IITM       | Indian Institute of Technology, Madras |
   
 - #### **Holopin Badges**
 
