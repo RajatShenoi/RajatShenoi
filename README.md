@@ -82,6 +82,8 @@ All of my games are available for download from my website: [https://sites.googl
   | Train and evaluate regression models | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Train and evaluate classification models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-classification-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Train and evaluate clustering models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-cluster-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Train and evaluate deep learning models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-deep-learn-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Create machine learning models | Learning Path | [Trophy](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-machine-learn-models.trophy?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
