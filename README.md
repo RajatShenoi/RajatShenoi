@@ -69,22 +69,10 @@ All of my games are available for download from my website: [https://sites.googl
 - #### **Certifications by Microsoft**
   _A complete transcript of the courses taken on **Microsoft Learn** can be viewed [here](https://learn.microsoft.com/en-gb/users/rajatshenoi/transcript/vpj66t8kg4llm9y)._
   | Course name | Type | Link |
-  | ----------- | :--: | ---- |
-  | Get Started with AI on Azure | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.get-started-ai-fundamentals.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Introduction to GitHub Copilot | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.introduction-to-github-copilot.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Introduction to Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.machinelearning.introduction-to-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Use automated machine learning in Azure Machine Learning | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.use-automated-machine-learning.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Create a regression model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-regression-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Create a classification model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-classification-model-with-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Create a clustering model with Azure Machine Learning designer | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-clustering-model-azure-machine-learning-designer.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | ----------- | :--: | :--: |
   | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | Learning Path | [Trophy](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-no-code-predictive-models-with-azure-machine-learning.trophy?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Explore and analyse data with Python | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.explore-analyze-data-with-python.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Train and evaluate regression models | Module | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-regression-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Train and evaluate classification models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-classification-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Train and evaluate clustering models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-cluster-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Train and evaluate deep learning models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.train-evaluate-deep-learn-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
   | Create machine learning models | Learning Path | [Trophy](https://learn.microsoft.com/en-gb/training/achievements/learn.wwl.create-machine-learn-models.trophy?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
-  | Refine and train machine learning models | Models | [Badge](https://learn.microsoft.com/en-gb/training/achievements/learn.machinelearning.test-machine-learning-models.badge?username=RajatShenoi&sharingId=A7F3B3772DC6E254) |
+  | Microsoft Learn AI Skills Challenge - Machine learning | Challenge | [Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7097868077014413312/) |
 - #### **Certifications by kaggle**
   | Course name | Link |
   | ----------- | ---- |
